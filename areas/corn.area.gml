@@ -20,7 +20,7 @@
     }
 #define area_name
 return "ZZZ";
-
+//mac chonmk was here
 #define area_sprite(q)
 switch (q) {
     case sprFloor1: return sprFloor0;
